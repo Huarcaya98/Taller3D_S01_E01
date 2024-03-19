@@ -11,8 +11,14 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
 
-            Example1 example = new Example1();
-            example.Execute();
+            /* Example1 example = new Example1();
+            example.Execute();*/
+
+           Rectangulo rectangulo = new Rectangulo();
+            rectangulo.ExcuteRect();
+
+
+
 
         }
     }
