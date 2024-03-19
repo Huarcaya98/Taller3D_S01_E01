@@ -12,10 +12,16 @@ namespace ConsoleApp1
         {
 
             /* Example1 example = new Example1();
-            example.Execute();*/
+            example.Execute();
 
            Rectangulo rectangulo = new Rectangulo();
             rectangulo.ExcuteRect();
+
+            Triangulo triangulo = new Triangulo();
+            triangulo.ExeTria();*/
+
+            Bisiesto bisiesto = new Bisiesto();
+            bisiesto.ExecuteBisiesto();
 
 
 
